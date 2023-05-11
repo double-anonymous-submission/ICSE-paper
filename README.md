@@ -19,3 +19,4 @@ This is a public repository for ASE submission #442: "Back to the Future! Studyi
 ├── bug_repository.csv    List of source repositories for studied systems
 └─ fault_triggering_tests.csv     List of fault-triggering tests
 ```
+The SBFL scores and Program Spectra files can be found here: https://doi.org/10.5281/zenodo.7922699
