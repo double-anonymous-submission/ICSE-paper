@@ -1,6 +1,6 @@
 # ICSE-paper
 
-This is a public repository for ICSE submission 846: "Back to the Future! Studying Data Cleanness in Defects4J and its Impact on Fault Localization"
+This is the public repository for ICSE submission 846: "Back to the Future! Studying Data Cleanness in Defects4J and its Impact on Fault Localization"
 
 ```
 │
